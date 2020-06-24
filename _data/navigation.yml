@@ -1,0 +1,21 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/isomer-logo.svg
+
+links:
+  - title: Contact Us
+    url: /contact-us/
+  - title: About Psc Scholarships
+    collection: about-psc-scholarships
+  - title: Undergraduate Scholarships
+    collection: undergraduate-scholarships
+  - title: Masters Scholarship
+    collection: masters-scholarship
+  - title: Virtual Information Session
+    collection: virtual-information-session
+  - title: Media Centre
+    resource_room: true
