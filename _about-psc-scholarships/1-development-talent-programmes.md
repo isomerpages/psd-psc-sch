@@ -9,13 +9,11 @@ PSC Scholarship holders are exposed to various development opportunities during 
 
 > Preparatory Course
 ```
-The Preparatory Course is the first milestone programme that introduces scholarship holders to the Public Service.
-The programme comprises learning journeys, personal mastery training and team-building activities.
+The Preparatory Course is the first milestone programme that introduces scholarship holders to the Public Service. The programme comprises learning journeys, personal mastery training and team-building activities.
 ```
 > PSC Scholarship Holders’ Mid-Course Programme (PSMP)
 ```
-The PSMP gives scholarship holders an opportunity to deepen their understanding of the Public Service.
-It comprises (1) talks, seminar and training sessions, (2) an internship at a ministry/public agency and (3) Community Involvement Programme through the PSC’s partnership with Youth Corps Singapore (YCS).
+The PSMP gives scholarship holders an opportunity to deepen their understanding of the Public Service. It comprises (1) talks, seminar and training sessions, (2) an internship at a ministry/public agency and (3) Community Involvement Programme through the PSC’s partnership with Youth Corps Singapore (YCS).
 ```
 
 Talent Development Programme
