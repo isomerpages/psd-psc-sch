@@ -13,7 +13,7 @@ sections:
             - title: 2020 Virtual Information Session
               url: 2020-virtual-information-session/2020-virtual-information-session
             - title: PSC Scholarships e-brochure
-              url: /privacy/
+              url: /psc-scholarships-brochure
             - title: Frequently Asked Questions
               url: https://www.ifaq.gov.sg/PSC/apps/Fcd_faqmain.aspx
     - infobar:
