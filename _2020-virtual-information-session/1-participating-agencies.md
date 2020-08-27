@@ -11,9 +11,11 @@ permalink: /2020-virtual-information-session/participating-agencies/
 * Public Service Commission (PSC)
 * Singapore Legal Service Commission (LSC)
 
+
 > ## Economy Bulding
 
 * Ministry of Trade and Industry (MTI)
+
 
 > ## Engineering
 
@@ -28,11 +30,13 @@ permalink: /2020-virtual-information-session/participating-agencies/
 * Public Utilities Board (PUB)
 * The National Environment Agency (NEA)
 
+
 > ## Security
 
 * Ministry of Defence (MINDEF)
 * Ministry of Foreign Affairs (MFA)
 * Ministry of Home Affairs (MHA)
+
 
 > ## Social
 
