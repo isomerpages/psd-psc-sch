@@ -11,7 +11,7 @@ sections:
             - title: PSC Scholarships
               url: /about-psc-scholarships/about-psc-scholarships
             - title: 2020 Virtual Information Session
-              url: /2020-virtual-information-session/
+              url: /2020-virtual-information-session/2020-virtual-information-session
             - title: PSC Scholarships e-brochure
               url: /privacy/
             - title: Frequently Asked Questions
