@@ -3,8 +3,7 @@ title: List of Participating Agencies
 permalink: /2020-virtual-information-session/participating-agencies/
 ---
 
-
-> Central Administration
+> ## Central Administration
 
 * Accountant-General's Department (AGD)
 * Auditor-General's Office (AGO)
@@ -12,13 +11,11 @@ permalink: /2020-virtual-information-session/participating-agencies/
 * Public Service Commission (PSC)
 * Singapore Legal Service Commission (LSC)
 
-
-> Economy Bulding
+> ## Economy Bulding
 
 * Ministry of Trade and Industry (MTI)
 
-
-> Engineering
+> ## Engineering
 
 * Cyber Security Agency of Singapore (CSA)
 * Defence Science and Technology Agency (DSTA)
@@ -31,15 +28,13 @@ permalink: /2020-virtual-information-session/participating-agencies/
 * Public Utilities Board (PUB)
 * The National Environment Agency (NEA)
 
-
-> Security
+> ## Security
 
 * Ministry of Defence (MINDEF)
 * Ministry of Foreign Affairs (MFA)
 * Ministry of Home Affairs (MHA)
 
-
-> Social
+> ## Social
 
 * Ministry of Education (MOE)
 * Ministry of Health Holdings (MOHH)
