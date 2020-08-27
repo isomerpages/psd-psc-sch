@@ -1,11 +1,11 @@
-title: Public Service Commission Scholarships
+title: Public Service Commission
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-isomer.ico
 
 # Site colors
 colors:
   primary-color: '#910045'
-  secondary-color: '#595963'
+  secondary-color: '#161617'
   media-colors:
     - title: media-color-one
       color: '#49759a'
