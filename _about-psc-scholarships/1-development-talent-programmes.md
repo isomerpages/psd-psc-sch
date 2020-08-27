@@ -20,7 +20,7 @@ Talent Development Programme
 ---
 #### The Public Service Leadership Programme (PSLP)
 
-image: /images/PSLP.png
+(/images/PSLP.png)
 
 The PSLP is a structured programme focused on developing talent in specialised areas or industries for key leadership positions within the Public Service. As a PSC Scholarship holder, you are given the opportunity to be emplaced on the talent development programme. 
 
