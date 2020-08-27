@@ -12,7 +12,7 @@ permalink: /2020-virtual-information-session/participating-agencies/
 * Singapore Legal Service Commission (LSC)
 
 
-> ## Economy Bulding
+> ## Economy Building
 
 * Ministry of Trade and Industry (MTI)
 
