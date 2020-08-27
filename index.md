@@ -17,8 +17,8 @@ sections:
             - title: Frequently Asked Questions
               url: https://www.ifaq.gov.sg/PSC/apps/Fcd_faqmain.aspx
     - infobar:
-        subtitle: Welcome to 
-        title: the PSC Scholarships Information Session portal! 
+        subtitle: Welcome to the
+        title: PSC Scholarships Information Session portal! 
         description: Visit the above links to access information on PSC Scholarships and our first-ever virtual information session. For more information on PSC Scholarships and application, please visit the 
         button: PSC website
         url: https://www.psc.gov.sg/home
