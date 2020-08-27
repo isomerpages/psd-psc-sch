@@ -28,9 +28,7 @@ sections:
     - infobar:
         title: Infobar title
         subtitle: Subtitle
-        description: Welcome to the PSC Scholarships Information Session portal! Visit the above links to access information on PSC Scholarships
-        and our first-ever virtual information session.
-        For more information on PSC Scholarships and application, please visit the PSC website.
+        description: Welcome to the PSC Scholarships Information Session portal! Visit the above links to access information on PSC Scholarships and our first-ever virtual information session. For more information on PSC Scholarships and application, please visit the PSC website.
         button: PSC Website
         url: https://www.psc.gov.sg/home
     - resources:
