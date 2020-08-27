@@ -2,7 +2,7 @@
 layout: homepage
 title: Public Service Commission
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/PSC-Scholarships-logo.png
 permalink: /
 sections:
     - hero:
