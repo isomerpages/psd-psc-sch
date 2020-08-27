@@ -4,7 +4,7 @@ favicon: /images/favicon-isomer.ico
 
 # Site colors
 colors:
-  primary-color: '#6031b6'
+  primary-color: '#ae0054'
   secondary-color: '#4372d6'
   media-colors:
     - title: media-color-one
@@ -21,10 +21,6 @@ colors:
 
 collections:
   about-psc-scholarships:
-    output: true
-  undergraduate-scholarships:
-    output: true
-  masters-scholarship:
     output: true
   virtual-information-session:
     output: true
