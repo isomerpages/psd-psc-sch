@@ -9,9 +9,9 @@ sections:
         background: /images/background.jpg
         key_highlights:
             - title: PSC Scholarships
-              url: https://google.com
+              url: /about-psc-scholarships/
             - title: 2020 Virtual Information Session
-              url: https://gmail.com
+              url: /virtual-information-session/
             - title: PSC Scholarships e-brochure
               url: /privacy/
             - title: Frequently Asked Questions
