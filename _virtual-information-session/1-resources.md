@@ -1,4 +1,4 @@
 ---
-title: Resources
-permalink: /virtual-information-session/resources/
+title: Videos
+permalink: /2020-virtual-information-session/videos/
 ---
