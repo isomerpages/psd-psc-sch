@@ -2,15 +2,11 @@
 title: 2020 Virtual Information Session
 permalink: /2020-virtual-information-session/2020-virtual-information-session/
 ---
-
 Come join us at our first-ever virtual information session, targeted at pre-tertiary and tertiary students. The session is curated specially to help students and parents understand and find out which scholarship is most suitable for you.
-
 2020 PSC Scholarships Information Session
 ---
 **Date:** 5 Sep 2020, Saturday
-
 **Time:** 11.00am – 6.00pm 
-
 **Venue:** Zoom Webinar
 
 
@@ -18,8 +14,9 @@ Come join us at our first-ever virtual information session, targeted at pre-tert
 
 
 #### **Pre-reading material**
-Here’s the list of the frequently asked questions from past information sessions. Do read them before attending the virtual event! 
+Here’s the list of the frequently asked questions (FAQs) from past information sessions. Do read them before attending the virtual event! 
 
+Download a copy of the FAQs here.
 
 **Eligibility, Criteria & Application**
 
@@ -51,12 +48,12 @@ Here’s the list of the frequently asked questions from past information sessio
   The PSC Secretariat is monitoring the situation closely and will practise safe distancing and preventive measures in line with advisories from the multi-ministry taskforce. We are also prepared to move assessments online, as we have done so for the past scholarship cycle in adherence to circuit breaker measures. 
 
 
-* **Should I apply for the scholarship now or only after I have completed my National Service (NS)?**
+* **Should I apply for the scholarship now or only after I have completed my National Service?**
   You can submit your application any time before the closing date. If you are required to attend a PSC panel interview during National Service, it will be facilitated.
 
 
-* **May I apply for a SAF or SPF Scholarship even though I have not enlisted for National Service (NS)?**
-  Yes, if you apply for a SAF or SPF Scholarship before being enlisted for National Service (NS), PSC can still make a provisional scholarship offer, based on the information in your application package. You will need to qualify for Officer Cadet School (OCS) to be considered for The SAF/SPF Scholarship. PSC will look into confirming your provisional scholarship offer later on, when your military reports are available.
+* **May I apply for a SAF or SPF Scholarship even though I have not enlisted for National Service?**
+  Yes, if you apply for a SAF or SPF Scholarship before being enlisted for National Service, PSC can still make a provisional scholarship offer, based on the information in your application package. You will need to qualify for Officer Cadet School (OCS) to be considered for The SAF/SPF Scholarship. PSC will look into confirming your provisional scholarship offer later on, when your military reports are available.
 
 
 **Countries, Universities & Courses**
@@ -70,7 +67,7 @@ Here’s the list of the frequently asked questions from past information sessio
 
 
 * **What are the courses of study that I can take under the PSC Undergraduate Scholarship (Mid-Term)/PSC Master’s Scholarship?**
-  The course of study should be in an area relevant to the work of the Civil Service. Some courses of study are very narrow in focus and of very limited relevance to the Public Service. In such cases, we might not support that course of study. For the PSC Master's Scholarship, it does not cover MBA programmes.
+  The course of study should be in an area relevant to the work of the Civil Service. Some courses of study are very narrow in focus and of very limited relevance to the Public Service. In such cases, we might not support that course of study. The PSC Master's Scholarship is not tenable for MBA programmes.
 
 
 * **What is the duration of study under the PSC Master’s Scholarship?**
