@@ -3,10 +3,7 @@ title: Career Pathways
 permalink: /about-psc-scholarships/career-pathways/
 ---
 
-
-
-
-
+![Public Service Career](/images/career-pathways.png)
 
 #### If you want to
 
