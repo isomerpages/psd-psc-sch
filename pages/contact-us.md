@@ -3,7 +3,6 @@ title: Contact Us
 permalink: /contact-us/
 ---
 
-layout: contact_us
 agency_name: Public Service Commission
     address:
         - National Library Building
