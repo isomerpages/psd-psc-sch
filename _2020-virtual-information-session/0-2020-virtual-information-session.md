@@ -21,7 +21,7 @@ Download a copy of the FAQs [here](/images/e-info-session-FAQs.pdf).
 **Eligibility, Criteria & Application**
 
 * **Why should I apply for the PSC Scholarship before my final examinations? What if I change my mind?**\
-  By starting on your application form early, you will have more time to prepare and submit your essay and supporting documents. The sooner you submit your application, the sooner you can focus whole-heartedly on your final examinations and concurrently be shortlisted for further assessment, if you are found suitable. This will also give you an opportunity to seek clarity on your scholarship application at an early stages. 
+  By starting on your application form early, you will have more time to prepare and submit your essay and supporting documents. The sooner you submit your application, the sooner you can focus whole-heartedly on your final examinations and concurrently be shortlisted for further assessment, if you are found suitable. This will also give you an opportunity to seek clarity on your scholarship application at an early stage. 
 
 
 * **Can foreign students apply for the PSC scholarships?**\
