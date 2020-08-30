@@ -1,4 +1,4 @@
 ---
 title: Privacy Statement
-url: https://www.psc.gov.sg/privacy-statement
+permalink: https://www.psc.gov.sg/privacy-statement
 ---
