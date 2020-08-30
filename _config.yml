@@ -1,11 +1,11 @@
-title: Title
+title: Public Service Commission
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-isomer.ico
 
 # Site colors
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: '#AB153F'
+  secondary-color: '#161617'
   media-colors:
     - title: media-color-one
       color: '#49759a'
@@ -22,11 +22,7 @@ colors:
 collections:
   about-psc-scholarships:
     output: true
-  undergraduate-scholarships:
-    output: true
-  masters-scholarship:
-    output: true
-  virtual-information-session:
+  2020-virtual-information-session:
     output: true
 resources_name: media-centre
 
