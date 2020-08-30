@@ -1,7 +1,9 @@
 ---
-layout: contact_us
 title: Contact Us
 permalink: /contact-us/
+---
+
+layout: contact_us
 agency_name: Public Service Commission
     address:
         - National Library Building
@@ -10,5 +12,5 @@ agency_name: Public Service Commission
         maps_link: https://goo.gl/maps/hDDuKmvBvj8KiiFv8
 contacts:
   - title: Enquiries & Feedback
-    content: You may wish to submit your feedback via the feedback form or write in to us at psc@psd.gov.sg.
+    content: You may wish to submit your feedback via the [feedback form](https://www.psc.gov.sg/feedback) or write in to us at psc@psd.gov.sg.
   ---
