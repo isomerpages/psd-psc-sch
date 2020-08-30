@@ -53,7 +53,7 @@ Download a copy of the FAQs here.
 
 
 * **May I apply for a SAF or SPF Scholarship even though I have not enlisted for National Service?**\
-  Yes, if you apply for a SAF or SPF Scholarship before being enlisted for National Service, PSC can still make a provisional scholarship offer, based on the information in your application package. You will need to qualify for Officer Cadet School (OCS) to be considered for The SAF/SPF Scholarship. PSC will look into confirming your provisional scholarship offer later on, when your military reports are available.
+  Yes, if you apply for a SAF or SPF Scholarship before being enlisted for National Service, PSC can still make a provisional scholarship offer, based on the information in your application package. You will need to qualify for Officer Cadet School (OCS) to be considered for the SAF/SPF Scholarship. PSC will look into confirming your provisional scholarship offer later on, when your military reports are available.
 
 
 **Countries, Universities & Courses**
