@@ -2,7 +2,6 @@
 title: 2020 Virtual Information Session
 permalink: /2020-virtual-information-session/2020-virtual-information-session/
 ---
-
 Come join us at our first-ever virtual information session, targeted at pre-tertiary and tertiary students. The session is curated specially to help students and parents understand and find out which scholarship is most suitable for you.
 
 2020 PSC Scholarships Information Session
