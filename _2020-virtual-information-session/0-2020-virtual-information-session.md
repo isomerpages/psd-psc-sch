@@ -16,7 +16,7 @@ Come join us at our first-ever virtual information session, targeted at pre-tert
 #### **Pre-reading material**
 Here’s the list of the frequently asked questions (FAQs) from past information sessions. Do read them before attending the virtual event! 
 
-Download a copy of the FAQs here.
+Download a copy of the FAQs [here](/images/e-info-session-FAQs.pdf).
 
 **Eligibility, Criteria & Application**
 
@@ -41,7 +41,7 @@ Download a copy of the FAQs here.
 
 
 * **How will the Game-Based Assessment (GBA) be used in the selection process?**\
-  In the 2021 PSC Scholarships Selection exercise, the GBA will be included in the existing range of assessment tools that the PSC uses to identify potential scholarship recipients holistically. These tools include co-curricular activity (CCA) records, psychometric tests, school assessment reports, National Service (NS) reports (if applicable), community service projects, leadership roles, other achievements, internship records and a panel interview.
+  In the 2021 PSC Scholarships Selection exercise, the GBA will be included in the existing range of assessment tools that the PSC uses to identify potential scholarship recipients holistically. These tools include co-curricular activity (CCA) records, psychometric tests, school assessment reports, National Service reports (if applicable), community service projects, leadership roles, other achievements, internship records and a panel interview.
 
 
 * **Are there any changes to the process due to COVID-19?**\
