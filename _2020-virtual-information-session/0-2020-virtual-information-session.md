@@ -11,9 +11,7 @@ Come join us at our first-ever virtual information session, targeted at pre-tert
 **Time:** 11.00am – 6.00pm\
 **Venue:** Zoom Webinar
 
-
-
-
+![programme table](/images/table.png)
 
 #### **Pre-reading material**
 Here’s the list of the frequently asked questions (FAQs) from past information sessions. Do read them before attending the virtual event! 
@@ -27,7 +25,7 @@ Download a copy of the FAQs here.
 
 
 * **Can foreign students apply for the PSC scholarships?**\
-  Singaporeans and Singapore Permanent Residents (SPRs) are eligible to apply. Candidates must obtain Singapore citizenship before their scholarship can be confirmed.
+  Singaporeans and Singapore Permanent Residents (SPRs) are eligible to apply. Candidates must obtain Singapore citizenship before their scholarships can be confirmed.
 
 
 * **What are the shortlisting criteria and selection process like?**\
