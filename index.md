@@ -6,7 +6,7 @@ image: /images/PSC-Scholarships-logo.png
 permalink: /
 sections:
     - hero:
-        background: /images/background.jpg
+        background: /images/PSCS_banner.png
         key_highlights:
             - title: PSC Scholarships
               url: /about-psc-scholarships/about-psc-scholarships
