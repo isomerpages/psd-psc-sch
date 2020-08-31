@@ -9,7 +9,7 @@ permalink: /2020-virtual-information-session/participating-agencies/
 * Auditor-General's Office (AGO)
 * Ministry of Communications and Information (MCI) 
 * Public Service Commission (PSC)
-* Singapore Legal Service (SLS)j
+* Singapore Legal Service (SLS)
 
 
 > ## Economy Building
