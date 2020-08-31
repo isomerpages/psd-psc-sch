@@ -1,7 +1,6 @@
 ---
 layout: homepage
 title: Public Service Commission
-description: Brief site description here
 image: /images/PSC-Scholarships-logo.png
 permalink: /
 sections:
