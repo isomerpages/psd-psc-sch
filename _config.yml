@@ -4,7 +4,7 @@ favicon: /images/favicon-isomer.ico
 
 # Site colors
 colors:
-  primary-color: '#AB153F'
+  primary-color: '#ba415b'
   secondary-color: '#161617'
   media-colors:
     - title: media-color-one
