@@ -8,9 +8,9 @@ Come join us at our first-ever virtual information session, targeted at pre-tert
 ---
 **Date:** 5 Sep 2020, Saturday\
 **Time:** 11.00am – 6.00pm\
-**Venue:** Zoom webinar
+**Venue:** Zoom Webinar 
 
-![programme table](/images/table.png)
+![programme table](/images/info-table.png)
 
 #### **Pre-reading material**
 Here’s the list of the frequently asked questions (FAQs) from past information sessions. Do read them before attending the virtual event! 
