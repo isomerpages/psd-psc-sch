@@ -7,7 +7,7 @@ The PSC Scholarship is awarded on the basis of merit to outstanding young men an
 The PSC offers the following scholarships:
 
 ## Public Administration
-> Undergaduate
+> Undergraduate
 * [PSC Scholarship](https://www.psc.gov.sg/Scholarships/public-sector-scholarships/browse-by-scholarship/public-service-commission-psc-scholarship-PSC)
 
 > Undergraduate (Mid-Term)
@@ -17,7 +17,7 @@ The PSC offers the following scholarships:
 * [PSC Master's Scholarship](https://www.psc.gov.sg/Scholarships/public-sector-scholarships/browse-by-scholarship/public-service-commission-psc-masters-scholarship-PSC)
 
 ## Professional Services
-> Undergaduate
+> Undergraduate
 * [PSC Scholarship (Engineering)](https://www.psc.gov.sg/Scholarships/public-sector-scholarships/browse-by-scholarship/public-service-commission-psc-scholarship-engineering-PSC)
 * [PSC Scholarship (Foreign Service)](https://www.psc.gov.sg/Scholarships/public-sector-scholarships/browse-by-scholarship/public-service-commission-psc-scholarship-foreign-service-PSC)
 * [PSC Scholarship (Legal Service)](https://www.psc.gov.sg/Scholarships/public-sector-scholarships/browse-by-scholarship/public-service-commission-psc-scholarship-legal-service-PSC)
