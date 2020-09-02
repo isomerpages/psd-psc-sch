@@ -2,7 +2,7 @@
 title: Career Pathways
 permalink: /about-psc-scholarships/career-pathways/
 ---
-### If you want to...
+### If you want to ...
 
 > #### **Public Administration** - be a generalist and experience a wide spectrum of public governance work
 
