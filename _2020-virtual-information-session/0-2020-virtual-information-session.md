@@ -12,7 +12,7 @@ Come join us at our first-ever virtual information session, targeted at pre-tert
 
 ![programme table](/images/prog-table.png)
 
-#### **Pre-reading material**
+#### **Pre-reading materials**
 Here’s the list of the frequently asked questions (FAQs) from past information sessions. Do read them before attending the virtual event! 
 
 Download a copy of the FAQs [here](/images/e-info-session-FAQs.pdf).

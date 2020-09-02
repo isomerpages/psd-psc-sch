@@ -25,10 +25,10 @@ permalink: /2020-virtual-information-session/participating-agencies/
 * Government Technology Agency of Singapore (GovTech)
 * Home Team Science and Technology Agency (HTX)
 * Housing and Development Board (HDB)
-* Info-communications Media Development Authority (IMDA)
+* Infocomm Media Development Authority (IMDA)
 * Land Transport Authority (LTA)
+* National Environment Agency (NEA)
 * Public Utilities Board (PUB)
-* The National Environment Agency (NEA)
 
 
 > ## Security
