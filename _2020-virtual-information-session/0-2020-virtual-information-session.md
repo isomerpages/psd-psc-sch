@@ -3,7 +3,7 @@ title: 2020 Virtual Information Session
 permalink: /2020-virtual-information-session/2020-virtual-information-session/
 ---
 The 2020 PSC Scholarships Virtual Information Session took place on 5 September 2020. If you have missed the session, highlights of the Live Sharing sessions will be posted here by the end of September.
-c
+
 #### **Reference materials**
 Here’s the list of the frequently asked questions (FAQs) from past information sessions. Download a copy of the FAQs [here](/images/e-info-session-FAQs.pdf).
 
