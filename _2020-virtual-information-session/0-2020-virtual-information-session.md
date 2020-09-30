@@ -4,18 +4,21 @@ permalink: /2020-virtual-information-session/2020-virtual-information-session/
 ---
 The 2020 PSC Scholarships Virtual Information Session took place on 5 September 2020. If you have missed the session, we hope you find the Live Sharing session videos below useful!
 
-**Live Sharing Session: Hear from our Public Officers!
+**Live Sharing Session: Hear from our Public Officers!**
 
 >Session 1: Central Administration and Economy Building
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j-46R7rE6Kg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 >Session 2: Social and Security
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yVYr5wNnJOM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 >Session 3: Engineering 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6XuY30isB2g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Part 1: Defence & Security (D&S) and Information & Communications Technology and Smart Systems (ICT&SS) clusters
 Part 2: Infrastructure and Environment (I&E) cluster
+
 
 #### **Reference materials**
 Here’s the list of the frequently asked questions (FAQs) from past information sessions. Download a copy of the FAQs [here](/images/e-info-session-FAQs.pdf).
