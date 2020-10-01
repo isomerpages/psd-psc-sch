@@ -6,6 +6,7 @@ The 2020 PSC Scholarships Virtual Information Session took place on 5 September 
 
 ## **Live Sharing Session: Hear from our Public Officers!**
 
+#### **Opening Remarks by Secretary, Public Service Commission**\
 #### **Session 1: Central Administration and Economy Building**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j-46R7rE6Kg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
