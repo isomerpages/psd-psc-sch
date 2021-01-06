@@ -8,4 +8,4 @@ permalink: /psc-scholarships-brochure/
 ![PSC Scholarships e-brochure](/images/brochure-cover.jpg)
 
 
-[Download](/images/PSC-Scholarships-brochure.pdf)
+[Download](/images/PSC-Scholarships-Brochure.pdf)
