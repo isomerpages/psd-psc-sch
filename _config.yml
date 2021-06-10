@@ -19,11 +19,6 @@ colors:
       color: '#00838f'
 
 
-collections:
-  about-psc-scholarships:
-    output: true
-  2020-virtual-information-session:
-    output: true
 resources_name: media-centre
 
 ##################################################################################################################
@@ -44,10 +39,13 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: test test
+
+staging: https://psd-psc-sch-staging.netlify.app
+prod: https://psd-psc-sch-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
-
+  - jekyll-remote-theme

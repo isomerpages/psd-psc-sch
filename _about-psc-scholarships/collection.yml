@@ -1,0 +1,7 @@
+collections:
+  about-psc-scholarships:
+    output: true
+    order:
+      - about-psc-scholarships.md
+      - career-pathways.md
+      - development-talent-programmes.md
